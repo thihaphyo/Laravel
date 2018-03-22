@@ -38,13 +38,13 @@
 
             $('#btn-add').on('click',function (e) {
 
-                window.location="/BookEntry";
+                window.location="BookEntry";
             });
 
 
             $('#btn-import').on('click',function (e) {
 
-                window.location="/ExcelImport";
+                window.location="ExcelImport";
             });
 
         });

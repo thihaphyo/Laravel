@@ -40,7 +40,7 @@
 
             $('#btn-add').on('click',function (e) {
 
-                window.location="/OrderEntry";
+                window.location="OrderEntry";
             });
 
 
